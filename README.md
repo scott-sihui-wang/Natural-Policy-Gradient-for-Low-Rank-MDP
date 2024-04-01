@@ -12,7 +12,7 @@ You can also find the code on `Colab`:
 
 [Low-Rank MDP, 1 Dimensional Feature](https://colab.research.google.com/drive/11fxNyIbSwCvVfEAFIP_tp2z0F3euM3i_?usp=sharing) 
 
-[Low-Rank MDP, S $\times$ A Dimensional Feature](https://colab.research.google.com/drive/1ME6TF5S35SRgFqJ49ziV2r2ehAnmX8ZI?usp=sharing)
+[Low-Rank MDP, S * A Dimensional Feature](https://colab.research.google.com/drive/1ME6TF5S35SRgFqJ49ziV2r2ehAnmX8ZI?usp=sharing)
 
 ### 1.1 Background and Motivation
 
