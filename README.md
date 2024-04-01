@@ -32,6 +32,16 @@ In this project, we will give an example of `low-rank MDP`, and test if `natural
 
 **Skills:** _Python_, _JAX_, _Numpy_, _Jupyter Lab_, _Colab_
 
-## 2. Reference
+## 2. Implementation Details and Results:
+
+This is the low-rank MDP environment we designed for experiments:
+
+![low-rank MDP environment]()
+
+This is how the `Q value` converges to the _optimal_ `Q value` by `NPG` iterations:
+
+![NPG Convergence]()
+
+## 3. Reference
 
 [Linear Convergence for Natural Policy Gradient with Log-linear Policy Parametrization](https://arxiv.org/pdf/2209.15382.pdf)
