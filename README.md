@@ -36,11 +36,11 @@ In this project, we will give an example of `low-rank MDP`, and test if `natural
 
 This is the low-rank MDP environment we designed for experiments:
 
-![low-rank MDP environment]()
+![low-rank MDP environment](env.png)
 
 This is how the `Q value` converges to the _optimal_ `Q value` by `NPG` iterations:
 
-![NPG Convergence]()
+![NPG Convergence](convergence.png)
 
 ## 3. Reference
 
