@@ -6,7 +6,9 @@ To get an overview of this project, please refer to my [presentation](Experiment
 
 [Low_Rank_MDP_1_Dimensional_Feature.ipynb](Low_Rank_MDP_1_Dimensional_Feature.ipynb) (the environment has a low-rank structure and an one-dimensional feature)
 
-[Low_Rank_MDP_S_A_Dimensional_Feature.ipynb](Low_Rank_MDP_S_A_Dimensional_Feature.ipynb) (the environment has a low-rank structure and an S $\times$ A dimensional feature. S is the number of possible states of the environment, and A is the number of possible actions that can be taken by the agent.)
+[Low_Rank_MDP_S_A_Dimensional_Feature.ipynb](Low_Rank_MDP_S_A_Dimensional_Feature.ipynb) (the environment has a low-rank structure and an S $\times$ A dimensional feature. S is the number of possible states of the environment, and A is the number of possible actions that can be taken by the agent)
+
+You can also find the code on `Colab`: [Low-Rank MDP, 1 Dimensional Feature](https://colab.research.google.com/drive/11fxNyIbSwCvVfEAFIP_tp2z0F3euM3i_?usp=sharing) [Low-Rank MDP, S $\times$ A Dimensional Feature](https://colab.research.google.com/drive/1ME6TF5S35SRgFqJ49ziV2r2ehAnmX8ZI?usp=sharing)
 
 ### 1.1 Background and Motivation
 
