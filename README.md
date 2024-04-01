@@ -6,7 +6,7 @@ To get an overview of this project, please refer to my [presentation](Experiment
 
 [Low_Rank_MDP_1_Dimensional_Feature.ipynb](Low_Rank_MDP_1_Dimensional_Feature.ipynb) (the environment has a low-rank structure and an one-dimensional feature)
 
-[Low_Rank_MDP_S_A_Dimensional_Feature.ipynb](Low_Rank_MDP_S_A_Dimensional_Feature.ipynb) (the environment has a low-rank structure and an S$\prod$A dimensional feature)
+[Low_Rank_MDP_S_A_Dimensional_Feature.ipynb](Low_Rank_MDP_S_A_Dimensional_Feature.ipynb) (the environment has a low-rank structure and an S$\times$A dimensional feature)
 
 ### 1.1 Background and Motivation
 
