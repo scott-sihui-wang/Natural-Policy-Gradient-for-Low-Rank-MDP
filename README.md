@@ -2,6 +2,12 @@
 
 ## 1. Introduction
 
+To get an overview of this project, please refer to my [presentation](Experiments_with_Low_Rank_MDP.pdf). To check out the implementation details and the results of the codes, please refer to:
+
+[Low_Rank_MDP_1_Dimensional_Feature.ipynb](Low_Rank_MDP_1_Dimensional_Feature.ipynb) (the environment has a low-rank structure and an one-dimensional feature)
+
+[Low_Rank_MDP_S_A_Dimensional_Feature.ipynb](Low_Rank_MDP_S_A_Dimensional_Feature.ipynb) (the environment has a low-rank structure and an S$\prod$A dimensional feature)
+
 ### 1.1 Background and Motivation
 
 It was well-established that, for `tabular softmax parametrization`, `natural policy gradient` method can obtain `linear convergence rate` with `geometrically increasing step-size`.
