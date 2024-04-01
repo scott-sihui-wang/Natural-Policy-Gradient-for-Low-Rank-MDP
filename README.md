@@ -33,3 +33,5 @@ In this project, we will give an example of `low-rank MDP`, and test if `natural
 **Skills:** _Python_, _JAX_, _Numpy_, _Jupyter Lab_, _Colab_
 
 ## 2. Reference
+
+[Linear Convergence for Natural Policy Gradient with Log-linear Policy Parametrization](https://arxiv.org/pdf/2209.15382.pdf)
